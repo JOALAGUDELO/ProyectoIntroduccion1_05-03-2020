@@ -1,0 +1,12 @@
+h1  {
+    font-weight: "bold";
+}
+
+.texto_planeta {
+    font-size: 1.2em;
+}
+
+.footer_index {
+    color: white;
+    background-color: grey;
+}
