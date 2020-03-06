@@ -9,9 +9,15 @@ h1  {
 .footer_index {
     color: white;
     background-color: grey;
+    text-align: center;
 }
 
 .imagendelsol {
     width:"1900"; 
     height:"635";
+    text-align: center;
+}
+
+header {
+    text-align: center;
 }

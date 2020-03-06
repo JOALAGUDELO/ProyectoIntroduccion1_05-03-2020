@@ -1,6 +1,5 @@
 h1 {
     font-weight: "bold";
-    font-family: 'Trebuchet MS';
     color: green;
 }
 
@@ -14,4 +13,12 @@ h3 {
     font-family: 'Trebuchet MS';
     text-align: justify;
     color: green;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
 }
