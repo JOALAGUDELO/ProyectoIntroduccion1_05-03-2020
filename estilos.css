@@ -1,0 +1,68 @@
+.h1_index  {
+    font-weight: "bold";
+}
+
+.texto_planeta_index {
+    font-size: 1.2em;
+}
+
+.sistema_solar {
+    width:"2500"; 
+    height:"900";
+    margin: auto;
+    display: block;
+    }
+
+.link_sistemasolar {
+    text-align: center;
+}
+
+.h1_laluna {
+    font-weight: "bold";
+    color: green;
+}
+
+.h3_laluna {
+    font-weight: "bold";
+    color: green;
+}
+
+.texto_luna {
+    font-style: italic;
+    font-family: 'Trebuchet MS';
+    text-align: justify;
+    color: green;
+}
+
+.h1_elsol {
+    font-weight: bold;
+    color: blue;
+}
+
+.h3_elsol {
+    font-weight: bold;
+    color: blue;
+}
+
+.texto_sol {
+    font-style: italic;
+    font-family: 'Trebuchet MS';
+    color: blue;
+    text-align: left;
+}
+
+.texto_sol2 {
+    font-style: italic;
+    font-family: 'Trebuchet MS';
+    color: blue;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    color: white;
+    background-color: grey;
+    text-align: center;
+}
